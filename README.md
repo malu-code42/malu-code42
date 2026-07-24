@@ -19,5 +19,7 @@ experienced developers, and grow as a software engineer.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🛠️  Tech: Java · C · JavaScript · HTML/CSS
+
 🗣️  Languages: Portuguese (native) · English (advanced)
+
 📍  Rio Grande do Norte, Brazil
