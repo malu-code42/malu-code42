@@ -1,25 +1,36 @@
-# Hi, I'm Malu 👋
+# Hi there! I'm Malu.
 
-### Computer Science student · UERN · Rio Grande do Norte 🇧🇷
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🐈 About Me
 
-Computer Science student at UERN (Rio Grande do Norte, Brazil) focused on
-back-end development, primarily in Java. I enjoy building projects from the
-ground up and understanding how systems work beneath the surface, from data
-structures and software architecture to lower-level programming in C.
+- 🧩 Building projects from the ground up and figuring out how systems work beneath the surface.
+- 🎓 Computer Science student at Universidade do Estado do Rio Grande do Norte (UERN), Mossoró, RN, BR.
+- 🌱 Learning more about data structures, software architecture and low-level programming in C.
+- 🎮 Pursuing Game Development as a hobby.
 
-🎮 Recently, I worked on Neon-type, a retro typing game written in C, as part
-of a team project, an experience that sharpened both my coding and
-collaboration skills.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-🎯 I'm looking for internship opportunities where I can contribute, learn from
-experienced developers, and grow as a software engineer.
+### 📊 My GitHub Statistics
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+![Stats](https://github-readme-stats.vercel.app/api?username=malu-code42&show_icons=true&hide_border=true&hide_title=true&theme=transparent)
 
-🛠️  Tech: Java · C · JavaScript · HTML/CSS
+</td>
+<td valign="top" width="50%">
 
-🗣️  Languages: Portuguese (native) · English (advanced)
+### 💻 My Programming Languages
 
-📍  Rio Grande do Norte, Brazil
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malu-code42&layout=compact&hide_border=true&hide_title=true&theme=transparent)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria%20Luiza-0A66C2?style=flat&logo=linkedin&logoColor=white)](SEU-LINK-DO-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-seu%40email.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:seu@email.com)
