@@ -1,4 +1,6 @@
-👩‍💻 Computer Science student at UERN
+# Hi, I'm Malu 👋
+
+### Computer Science student · UERN · Rio Grande do Norte 🇧🇷
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
