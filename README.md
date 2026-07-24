@@ -39,6 +39,6 @@ projetos do zero e aprender a fundo como as coisas funcionam por baixo.
 
 <div align="center">
 
-📫 **Contato:** [seu-email ou LinkedIn aqui]
+📫 **Contato:** [malu.code42@gmail.com | https://www.linkedin.com/in/maria-luiza-oliveira-de-morais-792085242/]
 
 </div>
