@@ -1,11 +1,10 @@
-# Hi there! I'm Malu.
+# Hi there! I'm Malu. 👋
+
+### Computer Science student · UERN · Rio Grande do Norte 🇧🇷
 
 ---
 
-### 🐈 About Me
-
 - 🧩 Building projects from the ground up and figuring out how systems work beneath the surface.
-- 🎓 Computer Science student at Universidade do Estado do Rio Grande do Norte (UERN), Mossoró, RN, BR.
 - 🌱 Learning more about data structures, software architecture and low-level programming in C.
 - 🎮 Pursuing Game Development as a hobby.
 
