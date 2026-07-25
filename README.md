@@ -1,26 +1,16 @@
-# Hi there! I'm Malu. 👋
+# 💫 About Me:
+- 🎓 Computer Science student at UERN, in Rio Grande do Norte, Brazil.<br>- 🧩 I build projects across different areas to find where I want to specialize — from games to web systems.<br>- 🛠️ Recently built Neon-type, a retro typing game in C, and I'm developing a web marketplace and a Zettelkasten note-taking app.<br>- ☕ Most comfortable in **Java**, and enjoy going low-level with **C** to understand how things really work.<br>- 🔍 Drawn to the parts of software that reward depth: systems, architecture, and tools that solve real problems.<br>- 💬 Ask me about Java, game development in C, or note-taking systems.
 
-### Computer Science student · UERN · Rio Grande do Norte 🇧🇷
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maria-luiza-oliveira-de-morais-792085242/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malu.code42@gmail.com) 
 
-- 🧩 Building projects from the ground up and figuring out how systems work beneath the surface.
-- 🌱 Learning more about data structures, software architecture and low-level programming in C.
-- 🎮 Pursuing Game Development as a hobby.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=malu-code42&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=malu-code42&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=malu-code42&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🛠️ Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
----
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria%20Luiza-0A66C2?style=flat&logo=linkedin&logoColor=white)](SEU-LINK-DO-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-seu%40email.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:malu.code42@gmail.com)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
